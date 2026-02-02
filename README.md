@@ -79,6 +79,8 @@ Shipping Duration (Ship Date − Order Date)
 
 ### Which markets generate the highest and lowest revenue and profit?
 
+![](Market.PNG)
+
 1. APAC leads in both revenue and profit, making it the strongest performing market overall.
   
 2. EU and the US also contribute significantly to total revenue, with solid profit generation.
@@ -93,6 +95,7 @@ Shipping Duration (Ship Date − Order Date)
 
  ### Which product categories and sub-categories are the most and least profitable?
  
+![](category.PNG)
 
 #### Category-level insights
 
