@@ -191,7 +191,7 @@ High revenue does not always translate into high profitability. While Technology
 
 - Optimize regional performance rather than expanding footprint by focusing on margin improvement and cost efficiency in underperforming markets while protecting core regions.
 
-- Improve logistics efficiency and delivery speed by renegotiating carrier contracts, optimizing shipping modes, and enforcing fulfillment SLAs to reduce cost drag.
+- Improve logistics efficiency and delivery speed by renegotiating carrier contracts, optimizing shipping modes, and enforcing fulfillment Servie Level Agreements to reduce cost drag.
 
 - Align inventory and marketing with seasonal demand peaks to maximize revenue and margin capture during high-impact periods.
 
