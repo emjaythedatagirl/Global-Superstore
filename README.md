@@ -72,52 +72,91 @@ Average Profit
 
 Shipping Duration (Ship Date − Order Date)
 
-Key Business Questions Answered
-1️⃣ Overall Performance
 
-What is the total revenue, total profit, and profit margin of the Global Superstore?
+## Key Business Questions Answered
 
-✔ Identified overall business profitability and baseline performance.
+## Market Performance
 
-2️⃣ Market & Regional Performance
+### Which markets generate the highest and lowest revenue and profit?
 
-Which markets and regions generate the highest and lowest revenue and profit?
+1. APAC leads in both revenue and profit, making it the strongest performing market overall.
+  
+2. EU and the US also contribute significantly to total revenue, with solid profit generation.
+  
+4. Africa, EMEA, and Canada record relatively low revenue and profit, indicating smaller market size or lower sales activity.
+  
+5. While higher revenue generally aligns with higher profit, profit levels vary across markets, highlighting differences in cost structure and operational efficiency.
+  
+6. What is the total revenue, total profit, and profit margin of the Global Superstore?
 
-✔ APAC, EU, and US drive the largest revenue
-✔ Some regions generate high sales but relatively low profit margins
+## Product Category & Sub-Category Performance
 
-3️⃣ Product Category Performance
+ ### Which product categories and sub-categories are the most and least profitable?
+ 
 
-Which product categories and sub-categories are the most and least profitable?
+#### Category-level insights
 
-✔ Technology is the most profitable category
-✔ Furniture shows weaker margins in several regions
+- Technology is the most profitable category, generating the highest profit ($663.8K) and the strongest profit margin (≈14.0%).
 
-4️⃣ Loss-Making Products
+- Office Supplies also performs well, with a solid profit margin (13.69%) despite slightly lower revenue than Technology.
 
-Which products consistently generate losses despite high revenue?
+- Furniture is the least profitable category, recording the lowest profit margin (6.94%), indicating weaker cost efficiency.
 
-✔ Identified top 10 loss-making products
-✔ Several high-revenue products contribute negatively to profit
+#### Sub-category-level insights
 
-5️⃣ Discount Impact Analysis
+- Copiers, Paper, Labels, Accessories, and Envelopes are the most profitable sub-categories, with profit margins ranging from 17% to over 24%.
 
-How do discounts affect profit and revenue?
+- Tables is the only loss-making sub-category, generating a negative profit (−$64.1K) and a −8.47% profit margin, despite relatively high revenue.
 
-✔ Discounted orders generate revenue but significantly reduce profit
-✔ Non-discounted orders are consistently more profitable
+- Machines, Chairs, Storage, and Supplies show comparatively low margins, suggesting potential pricing or cost challenges.
 
-6️⃣ Time-Series Performance
+📌 Key takeaway:
+High revenue does not always translate into high profitability. While Technology drives strong profits, Furniture—particularly Tables—requires strategic review to address margin erosion.
 
-How do sales and profit trend over time (yearly)?
 
-✔ Sales are relatively stable across years
-✔ Profitability varies by year, indicating efficiency and cost challenges
+## Loss-Making Products
 
-7️⃣ Shipping Efficiency
+### Which products consistently generate losses despite generating sales?
 
-How long does it take to ship orders, and does shipping delay affect profit?
+- The analysis identified the top 10 loss-making products, each contributing negative profit despite recorded revenue.
 
-✔ Shipping duration was calculated using Order Date and Ship Date
-✔ Faster ship modes tend to be more profitable
-✔ Longer shipping times are associated with reduced profit
+- Technology and Furniture products dominate the loss list, notably high-cost items such as 3D printers, conference tables, and laser printers.
+
+- The Cubify CubeX 3D Printer (Double Head) is the largest loss contributor (−$8.88K), followed by Lexmark MX611dhe Monochrome Laser Printer and Motorola Smart Phone, Cordless.
+
+- Several tables and storage products (Bevis and Rogers brands) also show persistent losses, suggesting pricing, discounting, or cost-structure issues.
+  
+
+## Discount Impact Analysis
+
+### How do discounts affect revenue and profitability?
+
+- Non-discounted orders drive the vast majority of revenue and profit, generating $12.27M in revenue and $1.88M in profit.
+
+- Discounted orders contribute minimal revenue ($0.37M) but result in a net loss (−$0.41M), indicating that discounts are eroding profitability.
+
+- Despite generating sales, discounted transactions consistently underperform, suggesting that current discount strategies are not cost-effective.
+
+
+## Time-Series Performance (Yearly)
+
+### How do sales and profit trend over time?
+
+- Sales and profit show a clear upward trend year over year, with total revenue increasing from $2.26M in 2011 to $4.30M in 2014.
+
+- Profit growth closely follows revenue growth, rising from $248.9K in 2011 to $504.2K in 2014, indicating improving overall performance.
+
+- While revenue grows consistently, profit margins fluctuate across years and quarters, suggesting periods of operational efficiency gains as well as cost and pricing pressures.
+
+- Later years (2013–2014) outperform earlier years, driven by stronger quarterly and end-of-year performance, particularly in Q3 and Q4.
+
+## Shipping Efficiency
+
+### How long does it take to ship orders, and does shipping delay affect profit?
+
+- Orders shipped faster (Same Day, First Class) yield consistent profit margins.
+
+- Slower shipping (Standard Class) still generates high revenue due to volume, but extended delivery times may slightly reduce profit efficiency.
+
+- Optimizing shipping speed can improve both customer satisfaction and profitability.
+
