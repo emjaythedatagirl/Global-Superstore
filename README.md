@@ -121,6 +121,8 @@ High revenue does not always translate into high profitability. While Technology
 
 ### Which products consistently generate losses despite generating sales?
 
+![](Loss.PNG)
+
 - The analysis identified the top 10 loss-making products, each contributing negative profit despite recorded revenue.
 
 - Technology and Furniture products dominate the loss list, notably high-cost items such as 3D printers, conference tables, and laser printers.
@@ -134,6 +136,8 @@ High revenue does not always translate into high profitability. While Technology
 
 ### How do discounts affect revenue and profitability?
 
+![](Discount.PNG)
+
 - Non-discounted orders drive the vast majority of revenue and profit, generating $12.27M in revenue and $1.88M in profit.
 
 - Discounted orders contribute minimal revenue ($0.37M) but result in a net loss (−$0.41M), indicating that discounts are eroding profitability.
@@ -144,6 +148,10 @@ High revenue does not always translate into high profitability. While Technology
 ## Time-Series Performance (Yearly)
 
 ### How do sales and profit trend over time?
+
+![](Month.PNG)
+
+![](year.PNG)
 
 - Sales and profit show a clear upward trend year over year, with total revenue increasing from $2.26M in 2011 to $4.30M in 2014.
 
