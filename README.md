@@ -70,7 +70,10 @@ Profit Margin
 
 Average Profit
 
-Shipping Duration (Ship Date − Order Date)
+Categories
+
+
+![](KPI.PNG)
 
 
 ## Key Business Questions Answered
@@ -164,6 +167,8 @@ High revenue does not always translate into high profitability. While Technology
 ## Shipping Efficiency
 
 ### How long does it take to ship orders, and does shipping delay affect profit?
+
+![](ship.PNG)
 
 - Orders shipped faster (Same Day, First Class) yield consistent profit margins.
 
