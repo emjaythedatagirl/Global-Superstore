@@ -179,3 +179,20 @@ High revenue does not always translate into high profitability. While Technology
 - 🔗 Interact with the dashboard: [View here](https://docs.google.com/spreadsheets/d/18e-q9pZsMRnqcDO5XdxPAf_yn9O9J45e/edit?usp=sharing&ouid=116338540508423812595&rtpof=true&sd=true)
 
 
+## Recommendtions
+
+- Redesign the discounting strategy to eliminate margin erosion by restricting discounts to high-margin products, targeted customer segments, and clearly defined strategic periods.
+
+- Rationalize the product portfolio by repricing, renegotiating supplier terms, bundling, or discontinuing consistently loss-making products.
+
+- Reposition the Furniture category for profitability by correcting pricing, logistics costs, and discount policies, and exiting structurally unprofitable sub-categories.
+
+- Prioritize investment in high-margin categories such as Technology and Office Supplies to accelerate scalable, profitable growth.
+
+- Optimize regional performance rather than expanding footprint by focusing on margin improvement and cost efficiency in underperforming markets while protecting core regions.
+
+- Improve logistics efficiency and delivery speed by renegotiating carrier contracts, optimizing shipping modes, and enforcing fulfillment SLAs to reduce cost drag.
+
+- Align inventory and marketing with seasonal demand peaks to maximize revenue and margin capture during high-impact periods.
+
+- Shift strategic focus from revenue growth to margin expansion by embedding profitability KPIs into pricing, promotions, product, and operational decisions.
