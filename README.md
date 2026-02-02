@@ -176,3 +176,6 @@ High revenue does not always translate into high profitability. While Technology
 
 - Optimizing shipping speed can improve both customer satisfaction and profitability.
 
+- 🔗 Interact with the dashboard: [View here](https://docs.google.com/spreadsheets/d/18e-q9pZsMRnqcDO5XdxPAf_yn9O9J45e/edit?usp=sharing&ouid=116338540508423812595&rtpof=true&sd=true)
+
+
