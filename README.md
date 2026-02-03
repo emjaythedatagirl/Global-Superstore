@@ -58,6 +58,19 @@ Note: The Discount column is binary (0 = no discount, 1 = discount applied).
 - Excel Dashboards
   
 
+## Data Modelling
+- A star-schema data model was implemented to support efficient analysis and accurate aggregations.
+
+- The Orders table serves as the central fact table, containing transactional data such as sales, profit, shipping cost, and order dates.
+
+- Supporting dimension tables include Products, Customers, Location, and a dedicated Calendar table for time-based analysis.
+
+- One-to-many relationships were created between the Orders table and each dimension using unique identifiers (Product ID, Customer ID, and Date).
+
+- This structure improves performance, prevents double-counting, and enables flexible slicing by time, market, product, and customer attributes.
+
+-  ![](Datamodel.PNG)
+
 ## Key Metrics (KPIs)
 
 The following KPIs were created using DAX:
